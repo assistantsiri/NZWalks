@@ -9,11 +9,11 @@ VALUES ('68c2ab66-c5eb-40b6-81e0-954456d06bba', 'BAYP', 'Bay Of Plenty Region', 
 
 
 
-INSERT INTO WalkDifficulty (Id, Code)
+INSERT INTO WalkDifficultys (Id, Code)
 VALUES ('4c2b95e0-2022-4a8f-b537-eb3a32786b06', 'Easy');
-INSERT INTO WalkDifficulty (Id, Code)
+INSERT INTO WalkDifficultys (Id, Code)
 VALUES ('a1066e97-c7c8-4aee-905b-61bb31d82bfb', 'Medium');
-INSERT INTO WalkDifficulty (Id, Code)
+INSERT INTO WalkDifficultys (Id, Code)
 VALUES ('30f96ef9-7b45-42f7-9fab-05a70e7fc394', 'Hard');
 
 
